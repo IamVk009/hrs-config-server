@@ -1,0 +1,4 @@
+  datasource:
+    url: jdbc:postgresql://localhost:5432/CS_Order
+    username: postgres
+    password: root
